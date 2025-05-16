@@ -33,9 +33,10 @@ perl shared_variant_analyzer.pl -i vcf_list.txt > variant_report.tsv
 
 ## 4. Input Format
 
+**vcf_list.txt**:
+
 ```bash
 
-**vcf_list.txt**:
 
 /path/to/sample1.vcf
 /path/to/sample2.vcf
