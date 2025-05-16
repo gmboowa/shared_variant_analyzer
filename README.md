@@ -31,7 +31,7 @@ perl shared_variant_analyzer.pl -i vcf_list.txt > variant_report.tsv
 
 ```
 
-## 4. Input Format
+## 4. Input format
 
 **vcf_list.txt**:
 
@@ -45,7 +45,7 @@ perl shared_variant_analyzer.pl -i vcf_list.txt > variant_report.tsv
 
 ```
 
-## 5. Output Columns
+## 5. Output columns
 
 **Chrom	Position	Ref	Alt	SampleCount	Percentage**
 
