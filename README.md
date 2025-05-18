@@ -37,8 +37,6 @@ perl shared_variant_analyzer.pl -i vcf_list.txt > variant_report.tsv
 
 ```
 
-```bash
-
 **vcf_list.txt**:
 
 
