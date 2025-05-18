@@ -49,8 +49,12 @@ perl shared_variant_analyzer.pl -i vcf_list.txt > variant_report.tsv
 
 ## 5. Output columns
 
-**Chrom	Position	Ref	Alt	SampleCount	Percentage**
+```bash
 
+**Chrom	| Position |	Ref	| Alt | SampleCount	| Percentage**
+
+
+```
 
 ## License <a name="license"></a>
 MIT License.
